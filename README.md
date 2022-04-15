@@ -4,3 +4,5 @@ https://www.coursera.org/learn/applied-data-science-capstone?specialization=appl
 
 as part of the Applied Data Science Specialization
 https://www.coursera.org/specializations/applied-data-science
+
+![Winning the space race with data science](https://github.com/cspielvogel/Applied-Data-Science-Capstone/blob/master/ds_thumbnail.png)
